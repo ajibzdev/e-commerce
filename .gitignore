@@ -1,0 +1,22 @@
+# dependencies
+admin/node_modules
+client/node_modules
+server/node_modules
+
+admin/.pnp
+client/.pnp
+server/.pnp
+
+admin/.pnp.js
+client/.pnp.js
+server/.pnp.js
+
+# testing
+admin/coverage
+client/coverage
+server/coverage
+
+# production
+admin/build
+client/build
+server/build
